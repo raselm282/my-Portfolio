@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Newspaper FullStack Website",
+      "image": "https://i.ibb.co.com/tMqL0ZMD/newspaper-1.png",
+      "description": "A full-stack newspaper platform providing trending news, article management, and secure user authentication.",
+      "techStack": ["React", "Tailwind CSS", "Firebase", "Node.js", "Express", "MongoDB"],
+      "liveLink": "https://assignments12-clients.web.app",
+      "githubLink": "https://github.com/raselm282/newspaper-full-stack-12",
+      "challenges": [
+        "Real-time updates for articles.",
+        "Implementing secure JWT authentication with role-based access control.",
+        "Handling pagination for large datasets.",
+        "Ensuring a fully responsive design across all devices."
+      ],
+      "futurePlans": [
+        "Adding an AI-based article recommendation system.",
+        "Implementing a dark mode for better user experience.",
+        "Improving SEO for better search visibility.",
+        "Enhancing the admin dashboard with analytics and insights."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Marathon Management System",
+      "image": "https://i.ibb.co.com/vxPzLzHH/marathon-1.png",
+      "description": "A platform for managing marathon events efficiently.",
+      "techStack": ["React", "Node.js", "MongoDB"],
+      "liveLink": "https://assignment11-clients.web.app",
+      "githubLink": "https://github.com/raselm282/assignment11-clients",
+      "challenges": [
+        "Integrating real-time tracking for runners.",
+        "Handling large-scale participant registrations efficiently."
+      ],
+      "futurePlans": [
+        "Adding AI-based predictions for race completion times.",
+        "Enhancing race analytics with real-time performance tracking."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Crowedcube",
+      "image": "https://i.ibb.co.com/vvq0TB3N/donate-1.png",
+      "description": "A full-stack investment crowdfunding platform with authentication.",
+      "techStack": ["React", "Firebase", "Express.js"],
+      "liveLink": "https://donate-winter-clothing.web.app",
+      "githubLink": "https://github.com/raselm282/donate-winter-10",
+      "challenges": [
+        "Optimizing database queries for faster loading times.",
+        "Ensuring secure and scalable transaction handling."
+      ],
+      "futurePlans": [
+        "Implementing a recommendation system for investments.",
+        "Adding blockchain-based security for investor data."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Donate For Winter",
+      "image": "https://i.ibb.co.com/MDV7Zh2C/donate-1-2.png",
+      "description": "A donation platform built for charity campaigns.",
+      "techStack": ["React", "Redux", "Tailwind CSS"],
+      "liveLink": "https://donate-winter-clothing.web.app",
+      "githubLink": "https://github.com/raselm282/donate-winter-10",
+      "challenges": [
+        "Ensuring secure payment processing for donations.",
+        "Building an intuitive and user-friendly donation flow."
+      ],
+      "futurePlans": [
+        "Adding AI-powered fraud detection for transactions.",
+        "Implementing multi-currency support for global donations."
+      ]
+    }
+  ]
+  
