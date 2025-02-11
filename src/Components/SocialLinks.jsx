@@ -18,7 +18,7 @@ const SocialLinks = () => {
         </a>
 
         <a
-          href="https://linkedin.com/in/yourusername"
+          href="https://linkedin.com/in/raselm282"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-600 hover:text-blue-800 text-3xl transition duration-300"
@@ -27,21 +27,21 @@ const SocialLinks = () => {
         </a>
 
         <a
-          href="https://twitter.com/yourusername"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-blue-400 hover:text-blue-600 text-3xl transition duration-300"
-        >
-          <FaTwitter />
-        </a>
-
-        <a
-          href="https://www.facebook.com/share/18pGK5wFpC"
+          href="https://www.facebook.com/raselm282"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-700 hover:text-blue-900 text-3xl transition duration-300"
         >
           <FaFacebook />
+        </a>
+        
+        <a
+          href="https://twitter.com/i-have-no-account"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-blue-400 hover:text-blue-600 text-3xl transition duration-300"
+        >
+          <FaTwitter />
         </a>
       </section>
     </div>
