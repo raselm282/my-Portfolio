@@ -9,6 +9,7 @@ const Footer = () => {
           <p className="font-bold">
             Md Rasel Mahmud
             <br />
+            MERN Stack Developer <br/>
             Providing reliable tech since 2024
           </p>
           <p>Copyright © {new Date().getFullYear()} - All right reserved</p>
@@ -24,7 +25,7 @@ const Footer = () => {
           <FaGithub />
         </a>
         <a
-          href="https://linkedin.com/in/I_have_no_account"
+          href="https://linkedin.com/in/raselm282"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-600 hover:text-blue-800 text-3xl transition duration-300"
@@ -32,7 +33,7 @@ const Footer = () => {
           <FaLinkedin />
         </a>
         <a
-          href="https://www.facebook.com/share/18pGK5wFpC"
+          href="https://www.facebook.com/raselm282"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-700 hover:text-blue-900 text-3xl transition duration-300"

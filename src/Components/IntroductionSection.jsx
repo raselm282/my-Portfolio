@@ -30,9 +30,9 @@ const IntroductionSection = () => {
           </p>
           <div className="mt-5">
             <button className="btn text-white text-lg bg-blue-500">
-            <a href="https://drive.google.com/file/d/1KxHR9VFPu5nsfhCptr7gKazFPPobptuJ/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="flex justify-between items-center gap-3">Resume</a>
+            <a href="https://drive.google.com/file/d/1ZJ3M-enjAjg8iMaQD6IpfGlMfhr-cA1W/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="flex justify-between items-center gap-3">Resume</a>
             </button>
-            <button className="btn text-black text-lg bg-blue-300 ml-5"><a href="https://github.com/raselm282/donate-winter-10" target="_blank" rel="noopener noreferrer" className="flex justify-between items-center gap-3"><FaGithub/> Github</a></button>
+            <button className="btn text-black text-lg bg-blue-300 ml-5"><a href="https://github.com/raselm282" target="_blank" rel="noopener noreferrer" className="flex justify-between items-center gap-3"><FaGithub/> Github</a></button>
           </div>
         </div>
       </section>
